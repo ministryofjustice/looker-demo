@@ -11,4 +11,3 @@ datagroup: looker_demo_default_datagroup {
 persist_with: looker_demo_default_datagroup
 
 explore: starts_q2_2023 {}
-
